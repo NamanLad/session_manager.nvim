@@ -18,6 +18,17 @@ when working on large projects without losing your context. It integrates with
 - **Session deleting**: Use the `:SessionDelete` command to delete one of the sessions for
   this directory.
 
+## See it in action
+
+### Create a new session
+https://github.com/user-attachments/assets/3826c476-4535-4274-aa34-af26a603353b
+
+### Load a session
+https://github.com/user-attachments/assets/97f2a59c-5e70-4b40-a062-ca6fc0f8648b
+
+### Delete a session
+https://github.com/user-attachments/assets/829defa8-7999-490d-a0d8-e45dc386c280
+
 ## Requirements
 
 - Neovim 0.8+
